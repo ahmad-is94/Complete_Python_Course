@@ -1,0 +1,5 @@
+{
+    "name": "Robot1",
+    "speed": 5,
+    "obstacle_detected": true
+}
