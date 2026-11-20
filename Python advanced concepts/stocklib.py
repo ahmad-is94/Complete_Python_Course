@@ -1,4 +1,4 @@
-from nsetool import Nse
+from nsetools import Nse
 
 # Initialize the NSE object
 nse = Nse()
